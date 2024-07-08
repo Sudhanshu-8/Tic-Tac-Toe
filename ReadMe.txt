@@ -18,14 +18,14 @@ Setup:
 Run the Game:
 
     Open a terminal or command prompt.
-    Navigate to the directory containing tic_tac_toe.py.
+    Navigate to the directory containing Main.py.
     Run the script using the command:
 
-        python tic_tac_toe.py
+        python Main.py
 
     Gameplay:
         Choose whether to play against another player or against the computer (options 1 or 2).
-        Enter the row and column numbers to place your mark ("X" or "O") on the board.
+        Enter the row and column numbers to place your mark ("X" or "Y") on the board.
         The game alternates turns between players/computer.
         The game ends when a player wins by getting three of their marks in a row (horizontally, vertically, or diagonally), or when all cells are filled without a winner (tie).
 
