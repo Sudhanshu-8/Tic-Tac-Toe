@@ -13,7 +13,7 @@ Installation:
 
 Setup:
 
-    Clone the repository or download the tic_tac_toe.py file.
+    Clone the repository or download the Main.py file.
 
 Run the Game:
 
